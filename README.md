@@ -5,6 +5,7 @@ Voice command created in python to execute jutsu (combo) in Shinobi Life Online 
 
 * Install Python: https://www.python.org/downloads/
 * Install pip (to manage the dependencies): https://pip.pypa.io/en/stable/installing/
+* Install PyAutoGui: http://pyautogui.readthedocs.io/en/latest/install.html
 * After install pip, execute this command:
 
 ``pip install SpeechRecognition``
